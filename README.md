@@ -16,3 +16,4 @@ a user-friendly Hotel Management System, developed as the Final Capstone Project
 # PROFILE
 ![image_one](https://github.com/Nin-Onin/NiNHotel/blob/main/Screenshots/profile.png)
 ---
+### SOME FEATURES ...
